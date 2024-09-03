@@ -28,8 +28,8 @@ const client = new Client({
 
 client.once("ready", () => {
   console.log("Bot is Ready!");
-  console.log("Code by Wick Studio");
-  console.log("discord.gg/wicks");
+  console.log("Code by 3zf");
+  console.log("discord.gg/k4kwNv2u9V");
 });
 
 client.on("messageCreate", async (message) => {
